@@ -1,0 +1,29 @@
+# SolidCraft
+*.sc.backup
+*.sc~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build/Export
+*.step
+*.stl
+*.3mf
+*.obj
+*.fbx
+
+# Temporary
+*.tmp
+*~
+.temp/
+
+# Node (if using any web docs)
+node_modules/
+package-lock.json
